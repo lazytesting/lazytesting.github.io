@@ -28,4 +28,4 @@ if I missed one please let me know:)
 - [Atlasian](https://www.youtube.com/watch?v=-6x6XBDf9sQ), good talk about contract testing (thanks [@ThadirPrime](https://twitter.com/ThadirPrime))
 
 ## Other
-- [Evojam](https://tech.evojam.com/2016/01/15/contract-first-rest-api-design-how-different-what-are-the-benefits/) article about API design and working contract first
+- [Evojam](https://tech.evojam.com/2016/01/15/contract-first-rest-api-design-how-different-what-are-the-benefits/) article about API design and working contract first (thanks [@ThadirPrime](https://twitter.com/ThadirPrime))
